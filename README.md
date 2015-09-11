@@ -5,7 +5,7 @@ Hello! Welcome to the UQMS github page. Here you can find the current nightly ve
 ### More information
 
 - This mod was created and is currently owned and maintained by **KaTiON**. 
-- This mod takes inspiration from [*The Ur-Quan Masters*](http://sc2.sourceforge.net/), a project it self inspired by *Star Control 2*, a game made by [*Toys for Bob*](http://www.toysforbob.com/about).
+- This mod takes inspiration from [*The Ur-Quan Masters*](http://sc2.sourceforge.net/), a project itself inspired by *Star Control 2*, a game made by [*Toys for Bob*](http://www.toysforbob.com/about).
 
 ### Bugs and Suggestions:
 
